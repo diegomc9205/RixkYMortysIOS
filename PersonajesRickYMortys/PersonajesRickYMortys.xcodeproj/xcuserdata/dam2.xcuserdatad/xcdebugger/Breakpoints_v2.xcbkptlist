@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "29ECFBFC-1BF3-4A3F-93F9-50B032F7D33E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonajesRickYMortys/MiCeldaEpisodios.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - 759f429104bd4364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.nombreEpisodio.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/PersonajesRickYMortys/MiCeldaEpisodios.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - 4bd0fc522d50a758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.nombreEpisodio.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/PersonajesRickYMortys/MiCeldaEpisodios.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - d3d9394e9cfca8e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.nombreEpisodio.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/PersonajesRickYMortys/MiCeldaEpisodios.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - 344890176e3bb017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.nombreEpisodio.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - 662270baa4c78970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; PersonajesRickYMortys.MiCeldaEpisodios"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/PersonajesRickYMortys/MiCeldaEpisodios.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "15C88A36-ABB4-474A-BCA6-1C69A6207A3E - 6e11f77971a21550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PersonajesRickYMortys.MiCeldaEpisodios.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PersonajesRickYMortys.MiCeldaEpisodios&gt;"
+                  moduleName = "PersonajesRickYMortys"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dam2/Desktop/IOS/PersonajesRickYMortys/PersonajesRickYMortys/MiCeldaEpisodios.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
